@@ -1,4 +1,4 @@
 ## 北辩8章程
 
 
-![Capture](https://user-images.githubusercontent.com/111103901/184282402-707b76ec-d60b-4414-b6ff-2c6c655b2d5e.PNG)
+[章程 8.8.22.pdf](https://github.com/kookaiyi/kookaiyi.github.io/files/9313609/8.8.22.pdf)
