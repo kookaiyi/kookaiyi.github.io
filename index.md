@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 北辩8章程
 
 You can use the [editor on GitHub](https://github.com/kookaiyi/kookaiyi.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
